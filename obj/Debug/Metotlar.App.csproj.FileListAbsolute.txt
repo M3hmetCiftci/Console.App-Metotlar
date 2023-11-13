@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\bin\Debug\Metotlar.App.exe.config
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\bin\Debug\Metotlar.App.exe
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\bin\Debug\Metotlar.App.pdb
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\obj\Debug\Metotlar.App.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\obj\Debug\Metotlar.App.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\obj\Debug\Metotlar.App.exe
+C:\Users\asus\source\repos\Metotlar.App\Metotlar.App\obj\Debug\Metotlar.App.pdb
